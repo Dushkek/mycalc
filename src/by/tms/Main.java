@@ -12,7 +12,9 @@ public class Main {
             app.run();
             consoleApp.run();
         }
-//        A a=new C();
+        System.out.println("hello world");
+
+        //        A a=new C();
 //        a.run();
     }
 }
