@@ -8,7 +8,4 @@ public class RegService {
         User.users.add(user);
     }
 
-    public User getUserById(int id){
-        return  User.users.get(id);
-    }
 }
